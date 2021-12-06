@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=2273CF&height=200&section=header&text=God%WH&fontSize=50&fontColor=ffffff&&fontAlignY=35&fontAlign=50" />
+
 
 
 # 💎
@@ -21,7 +21,7 @@
 </div>
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=2273CF&height=200&section=footer&text=God%WH&fontSize=50&fontColor=ffffff&&fontAlignY=35&fontAlign=50" />
 
 
 <!-- ### Hi there 👋
